@@ -1,0 +1,16 @@
+{
+  "name": "loggerjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": {
+    "email": "igoraparecido59@outlook.com",
+    "name": "Igor Silva"
+  },
+  "private": "true",
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  },
+  "license": "MIT"
+}
